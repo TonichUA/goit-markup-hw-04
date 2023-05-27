@@ -320,7 +320,6 @@ img {
 .team-list {
   display: flex;
   gap: 24px;
-  /* margin: 0 auto; */
 }
 .team-title-top {
   font-size: 36px;
